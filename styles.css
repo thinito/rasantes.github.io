@@ -1,27 +1,13 @@
-.menu{    
-    color: black;    
-    font-size: 15px;   
-    
+body{
+    background-color: black;
+    color: white;
 }
-
-h1{
-   margin-left:  80px;   
-   position: fixed;
-}
-
-ol{
-    text-align: center;
-}
-
-h2{
-    border-top-width:500px;
-}
-
-li{
-    text-align: center;
-    position: fixed;
-}
-
 #logo{
     width: 80px;
+    float: left;
+}
+.menu{background-color: white;
+    color: black;
+    margin-bottom: 15px;
+    font-size: 25px;
 }
